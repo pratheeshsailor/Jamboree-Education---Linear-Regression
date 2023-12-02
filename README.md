@@ -33,6 +33,7 @@ They recently launched a feature where students/learners can come to their websi
     * Linearity of variables (no pattern in residual plot)
     * Test for Homoscedasticity
     * Normality of residuals
+      
       **Testing the assumptions of the linear regression model** 
       * Multicollinearity check by VIF score (variables are dropped one-by-one till none has VIF>5) 
       * The mean of residuals is nearly zero 
